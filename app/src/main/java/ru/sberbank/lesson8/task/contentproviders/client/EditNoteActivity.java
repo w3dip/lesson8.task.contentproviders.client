@@ -7,8 +7,8 @@ import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import static ru.sberbank.lesson8.task.contentproviders.client.adapters.NoteEntry.NOTE_CONTENT;
-import static ru.sberbank.lesson8.task.contentproviders.client.adapters.NoteEntry.NOTE_ID;
+import static ru.sberbank.lesson8.task.contentproviders.client.adapters.NoteContract.NOTE_CONTENT;
+import static ru.sberbank.lesson8.task.contentproviders.client.adapters.NoteContract.NOTE_ID;
 
 public class EditNoteActivity extends Activity {
     private TextView editNoteTextView;

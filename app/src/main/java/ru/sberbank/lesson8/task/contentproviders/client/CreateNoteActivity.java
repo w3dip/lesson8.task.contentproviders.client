@@ -6,7 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import static ru.sberbank.lesson8.task.contentproviders.client.adapters.NoteEntry.NOTE_CONTENT;
+import static ru.sberbank.lesson8.task.contentproviders.client.adapters.NoteContract.NOTE_CONTENT;
 
 public class CreateNoteActivity extends AppCompatActivity {
     private TextView newNoteTextView;

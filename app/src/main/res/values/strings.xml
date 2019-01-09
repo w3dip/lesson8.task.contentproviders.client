@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">lesson8.task.contentproviders</string>
+    <string name="app_name">lesson8.task.contentproviders.client</string>
     <string name="empty_text">There is no value</string>
     <string name="settings_filename">ru.sberbank.lesson8.task.contentproviders.SETTINGS</string>
     <string name="note_color_setting">ru.sberbank.lesson8.task.contentproviders.NOTE_COLOR_SETTING</string>

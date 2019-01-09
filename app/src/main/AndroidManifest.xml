@@ -20,4 +20,7 @@
         <activity android:name=".EditNoteActivity" />
         <activity android:name=".SettingsActivity" />
     </application>
+
+    <uses-permission android:name="ru.sberbank.lesson8.task.contentproviders.READ"/>
+    <uses-permission android:name="ru.sberbank.lesson8.task.contentproviders.WRITE"/>
 </manifest>
